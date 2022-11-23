@@ -29,8 +29,12 @@ A déployer sur Goerli puis un quelconque herbergeur
 
 ## Utilisation
 
-git clone
-dans truffle, ganache ouvert
-npm install et truffle migrate
-dans client
-npm install et npm start
+git clone  
+dans truffle, ganache ouvert  
+npm install et truffle migrate  
+dans client  
+npm install et npm start  
+
+## capture
+
+![image](https://user-images.githubusercontent.com/45956179/203595320-bf675745-9017-417e-8708-ae96f2de20a1.png)
