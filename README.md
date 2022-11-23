@@ -35,6 +35,6 @@ npm install et truffle migrate
 dans client  
 npm install et npm start  
 
-## capture
+## Screenshot
 
 ![image](https://user-images.githubusercontent.com/45956179/203595320-bf675745-9017-417e-8708-ae96f2de20a1.png)
